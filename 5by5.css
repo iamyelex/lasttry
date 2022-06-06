@@ -1,0 +1,18 @@
+.tr{
+    height: 80px;
+}
+.th1{
+    background-color: #a0522d;
+}
+.th2{
+    background-color: #FAF9F6;
+}
+.tr2{
+    text-align: center;
+}
+.outside{
+    text-align: right; height: 80px;
+}
+table{
+    width:45%
+}
